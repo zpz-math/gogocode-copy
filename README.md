@@ -71,7 +71,7 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 
 -   [issues](https://github.com/thx/gogocode/issues)
 -   Ding Group：34266233
--   QQ Group：735216094  glsjfslfksja123
+-   QQ Group：735216094  g
 ## License
 
 [MIT](LICENSE)
